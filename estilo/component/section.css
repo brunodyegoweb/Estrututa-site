@@ -4,9 +4,14 @@
     position: absolute;
     display: inline-block;
     background-color: #639;
-    width: 300px;
+    width: 450px;
     height: 580px;
     border-radius: 10px;
     text-align: center;
     bottom: -300px;   
+}
+
+.sectionTwo {
+    position: absolute;
+    right: 400px;
 }
