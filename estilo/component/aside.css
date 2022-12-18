@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.aside {
+    position: relative;
+    background-color: #693;
+    width: 300px;
+    height: 900px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: auto;
+}

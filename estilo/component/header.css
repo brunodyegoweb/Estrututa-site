@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.header {
+    position: absolute;
+    background-color: #396;
+    width: 1000px;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
